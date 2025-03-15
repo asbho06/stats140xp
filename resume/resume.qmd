@@ -35,7 +35,7 @@ Researcher (Dublin) \hfill 1899-1935
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+**University of California, Los Angeles** \hfill 2023-2025 \newline *Statistics and Data Science BS*
 
 # Publications
 
